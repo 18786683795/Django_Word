@@ -1,0 +1,11 @@
+{% extends "app/layout.html" %}
+
+{% block content %}
+
+<div class="jumbotron">
+    <h1>测试</h1>
+    
+    <p><a href="{% url 'downloadreport' %}" class="btn btn-primary btn-large">生成word并下载</a></p>
+</div>
+
+{% endblock %}

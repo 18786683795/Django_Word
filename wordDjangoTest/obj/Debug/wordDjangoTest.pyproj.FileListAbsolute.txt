@@ -1,0 +1,13 @@
+D:\code\wordDjangoTest\wordDjangoTest\bin\Microsoft.PythonTools.WebRole.dll
+D:\code\wordDjangoTest\wordDjangoTest\obj\Debug\attach_server.py
+D:\code\wordDjangoTest\wordDjangoTest\obj\Debug\visualstudio_py_debugger.py
+D:\code\wordDjangoTest\wordDjangoTest\obj\Debug\visualstudio_py_repl.py
+D:\code\wordDjangoTest\wordDjangoTest\obj\Debug\visualstudio_py_util.py
+D:\code\wordDjangoTest\wordDjangoTest\obj\Debug\__init__.py
+D:\code\wordDjangoTest\wordDjangoTest\obj\Debug\__main__.py
+D:\code\wordDjangoTest\wordDjangoTest\bin\AzureSetup.cfg
+D:\code\wordDjangoTest\wordDjangoTest\bin\Microsoft.PythonTools.AzureSetup.exe
+D:\code\wordDjangoTest\wordDjangoTest\bin\Microsoft.PythonTools.AzureSetup.exe.config
+D:\code\wordDjangoTest\wordDjangoTest\bin\wfastcgi.py
+D:\code\wordDjangoTest\wordDjangoTest\obj\Debug\web.config
+D:\code\wordDjangoTest\wordDjangoTest\obj\Debug\web.debug.config
